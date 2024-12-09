@@ -1,2 +1,1 @@
-# aleafurniture
-projekti ne jcodres
+# alea-furniture
